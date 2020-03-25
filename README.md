@@ -1,6 +1,8 @@
 # hello-world
 A little about me!
 
-Hello GitHub user! My name is suzieh. I am an aspiring developer / analyst based out of various parts of the United States. I'm mostly familiar with C++, Python, R, and JavaScript. Thanks for taking a look around. I hope you find my projects intriguing.
+Hello GitHub user! My name is suzieh. I am a data scientist (soon to be PhD student) at the University of Minnesota.
 
-All you need to know about me is "Lord of the Rings" will forever be my favorite trilogy. Also I love pistachios.
+Most of my projects are generated using Python, R, C++, or JavaScript.
+
+Also I love pistachios. Like really, really, really love pistachios.
